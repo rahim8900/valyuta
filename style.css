@@ -1,0 +1,123 @@
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-sizing: border-box;
+}
+
+.logo {
+
+    width: 89px;
+    height: 23px;
+
+}
+
+.basliqic {
+
+    width: 1524px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    font-weight: 500;
+    padding-left: 15px;
+    height: 19px;
+}
+
+a {
+    color: #959BA4;
+    text-decoration: none;
+}
+
+.bank {
+    color: black;
+}
+
+.btn {
+    font-weight: 500;
+    color: black;
+    border: none;
+    text-decoration: none;
+    background-color: white;
+}
+
+
+.govde {
+    width: 700px;
+    height: 300px;
+    display: flex;
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    box-sizing: border-box;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: 0;
+}
+
+p {
+    font-size: 12px;
+    color: #9F9F9F;
+    margin-top: 0px;
+    margin-bottom: 0;
+}
+
+.daxil {
+    display: flex;
+    flex-direction: row;
+    margin-top: 23px;
+}
+
+.valyuta {
+    margin-top: 5px;
+    border: 1px solid #E5E5E5;
+    border-radius: 5px;
+}
+
+.valyuta td {
+    border: 1px solid #E5E5E5;
+    width: 63px;
+    height: 28px;
+    text-align: center;
+}
+
+input {
+    width: 220px;
+    font-size: xx-large;
+    outline: none;
+    border: none;
+}
+
+.dd1,
+.dd2 {
+    background-color: white;
+    border: 1px solid #E5E5E5;
+    border-radius: 5px;
+    width: 260px;
+    height: 102px;
+    margin-right: 123px;
+    margin-top: 20px;
+}
+
+.d1,
+.d2 {
+
+    padding-left: 20px;
+}
+
+.d1p,
+.d2p {
+    position: relative;
+    left: 10px;
+    top: 35px;
+}
